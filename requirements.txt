@@ -1,0 +1,7 @@
+nltk
+spacy
+scikit-learn
+scipy
+pandas
+matplotlib
+gradio

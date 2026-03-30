@@ -1,0 +1,201 @@
+sentence,label
+mai kal colleg ja rha hu,spelling
+me kal colage ja rha hu,spelling
+mai aj skul nahi gya,spelling
+kal mai ofice late aaya,spelling
+vo aj train se kollege ja rha,spelling
+mera frnd kal collge me tha,spelling
+aaj hum libary me padne gaye,spelling
+tumne apna assingment submit kiya,spelling
+me kal stady nahi ki,spelling
+wo aj kanteen me coffe pi rha tha,spelling
+mai clg ki bus miss kar di,spelling
+yeh quesion bahut easy tha,spelling
+aj ka whether bahut acha hai,spelling
+kal ke papper me maths mushkil tha,spelling
+me apna lapop ghar pe bhul aya,spelling
+vo aj ofc me late aaya,spelling
+tumne galat speling likh di,spelling
+me kal prject complete karunga,spelling
+aj hum frinds ke sath movie dekhne gaye,spelling
+mera naya moble aj deliver hua,spelling
+mai mai market jaunga hu,repetition
+kal kal hum log ghumne gaye the,repetition
+me me hi sab kuch karta hu,repetition
+vo vo baar baar same baat bol rha tha,repetition
+hum log exam exam ki hi baat kar rahe the,repetition
+ye ladka ladka bahut tez hai,repetition
+tum tum kyu itna soch rhe ho,repetition
+aj aj bahar mat jana,repetition
+mai kal kal office nahi aunga,repetition
+vo vo hamesha late aata hai,repetition
+ye problem problem jaisi lag rhi hai,repetition
+me ghar ghar dekhne gya tha,repetition
+tum log log itna has kyu rahe ho,repetition
+aj class class me bahut shor tha,repetition
+vo exam exam bol kar dara rha tha,repetition
+hum hum milkar ye kaam karenge,repetition
+mai kal kal clg nahi aunga,repetition
+tum tumhare marks marks ka dhyan rakho,repetition
+vo vo hamesha same galti karta hai,repetition
+ye ye baat mujhe pasand nahi,repetition
+mai kal college ja raha,grammar
+vo acha ladka hoon,grammar
+tum kal movie dekhne ja rahi hoon,grammar
+me ghar ja raha hai,grammar
+wo kal office ja rahe hu,grammar
+ye ladki bahut acha hai,grammar
+hum log kal aa raha hu,grammar
+mai aj bahut khush ho,grammar
+tum log exam de raha hai,grammar
+vo kal se ro raha ho,grammar
+me ab school nahi jata hoon,grammar
+ye problem easy hai kya ho,grammar
+aj mausam bahut ache hai,grammar
+hum sab ready ho chuka hai,grammar
+mai aj late aaya hai,grammar
+vo kal ghar me nai tha hoon,grammar
+tum log time pe nahi aaye ho,grammar
+me thak gaya hai,grammar
+ye result acha nahi hai hoon,grammar
+vo kal se bimaar hun,grammar
+mai kal clg ja rha hu,normalization
+me aj ghar pe hu,normalization
+tum kal offc ja rhe ho,normalization
+vo aj frnds ke sath ghumne gya,normalization
+me kal apne frnd k sath movie dekhne gya,normalization
+aj ka whether bhot accha h,normalization
+kal ka metting cancel ho gya,normalization
+me aj clg nhi gaya,normalization
+tum log aj canteen me milo,normalization
+vo aj net slow h,normalization
+me abhi bus me hu,normalization
+kal se exam start h,normalization
+tumne clg ka form fill kiya,normalization
+me aj offline class me hu,normalization
+vo kal fastival ke liye ghar gya,normalization
+aj klg me naya teacher aaya,normalization
+me apne mom dad ke sath mall gya tha,normalization
+aj ghar pe sab busy h,normalization
+kal hum trip pe ja rhe,normalization
+ye song bhot mast h,normalization
+mai kal college ja raha hoon,clean
+me aj ghar pe hoon,clean
+tum kal office ja rahe ho,clean
+vo aj friends ke sath ghumne gaya,clean
+me kal apne friend ke sath movie dekhne gaya,clean
+aj ka weather bahut accha hai,clean
+kal ki meeting cancel ho gayi,clean
+me aj college nahi gaya,clean
+tum log aj canteen me milo,clean
+vo aj internet slow hai,clean
+me abhi bus me hoon,clean
+kal se exam start hai,clean
+tumne college ka form fill kiya,clean
+me aj offline class me hoon,clean
+vo kal festival ke liye ghar gaya,clean
+aj ghar pe sab busy hai,clean
+kal hum trip pe ja rahe hai,clean
+ye song bahut mast hai,clean
+mai kal ghar ja raha hoon,clean
+tum bahut ache dost ho,clean
+mai kal colleg jana bhul gya,spelling
+me aj cllege ki library gya tha,spelling
+vo aj offise me nahi tha,spelling
+humne kal quesiton galat solve kiya,spelling
+aj teacher ne assgnment check kiya,spelling
+me apna projct time pe submit nahi kiya,spelling
+vo aj canteen me samosa khra tha,spelling
+ye resut mujhe pasand nahi aaya,spelling
+kal humne footbal match khela,spelling
+me new mobail lene wala hu,spelling
+mai kal kal ghar nahi aaya tha,repetition
+ye ye cheez bahut mehngi hai,repetition
+vo vo roj late aata hai,repetition
+hum humesha humesha milte rahenge,repetition
+me aj aj hi waha gaya tha,repetition
+tum tum hamesha hasi mazak karte ho,repetition
+ye baat baat me jhagda mat karo,repetition
+vo kal kal hi yaha shift hua,repetition
+hum log log sab samajhte hai,repetition
+ye game game me mat haaro,repetition
+mai kal school nahi gaya hoon,grammar
+vo aj office nahi jata ho,grammar
+tum log kal se aa raha hai,grammar
+me kab se wait kar raha ho,grammar
+ye bachhe bahut shararti hai hoon,grammar
+hum dono aj mil rahe hu,grammar
+vo kal tak wapas aa raha hu,grammar
+me kal se thik feel nahi kar raha ho,grammar
+ye movie bahut boring hai hoon,grammar
+tum log time se nahi aaye hu,grammar
+me aj clg ja rha,normalization
+vo kal ghar nahi aya,normalization
+me aj khana bahot fast khaya,normalization
+tum log kal night me call karna,normalization
+ye phone ka net slow hai,normalization
+me aj nayi jeans li,normalization
+vo kal last bench pe baith tha,normalization
+me aj bahut thak gya hu,normalization
+tum kal se tuition aa,normalization
+aj ka din bhot busy tha,normalization
+me roj subah jaldi uthta hoon,clean
+vo kal office time pe aaya tha,clean
+tum log aj class me quiet the,clean
+me aj khana bahut fast khaya tha,clean
+ye phone ka internet slow hai,clean
+me aj nayi jeans li hai,clean
+vo kal last bench pe baitha tha,clean
+me aj bahut thak gaya hoon,clean
+tum kal se tuition aa rahe ho,clean
+aj ka din bahut busy tha,clean
+mai aaj scol nahi gaya,spelling
+me kal friemd ke sath ghumne gya,spelling
+vo aj clg me present nahi tha,spelling
+humne kal assigment milkar kiya,spelling
+ye probem jaldi solve ho jayegi,spelling
+me kal market me shoes lene gya,spelling
+vo aj footpath pe chalta hua dikhha,spelling
+ye qestion mujhe samaj nahi aaya,spelling
+me aj new acuount open kiya,spelling
+vo kal skool trip pe gaya,spelling
+mai aaj aaj bahut khush hu,repetition
+tum log log kyu lad rahe ho,repetition
+vo aj aj hi aaya hai,repetition
+hum sab sab milkar kaam karenge,repetition
+me kal kal se exercise start karunga,repetition
+ye ladki ladki bohot sweet hai,repetition
+vo game game me har bar jeet jata hai,repetition
+hum roj roj milte hai,repetition
+tum aj aj hi padhai start karo,repetition
+me exam exam soch ke tension me hu,repetition
+mai kal ghar ja rha,grammar
+vo aj clg nahi aaya ho,grammar
+tum log kal se aa raha hu,grammar
+me aj office nahi jata hai,grammar
+ye sab log ready ho gaya hoon,grammar
+hum aj bahut busy ho,grammar
+vo kal tak kaam khatam karega ho,grammar
+me aj jaldi so raha hai,grammar
+ye result mere liye acha nahi ho,grammar
+tum log time pe nahi aaye hai ho,grammar
+me aj ghar pe hu,normalization
+vo kal trip pe gya tha,normalization
+me kal subway se office gya,normalization
+tum log aj party me aao,normalization
+ye movie bhot funny h,normalization
+me aj exam ki tayyari kar rha,normalization
+vo kal se new project start karega,normalization
+me aj ghar clean kar rha,normalization
+tum kal se jogging start kro,normalization
+aj ka match bhot interesting h,normalization
+mai roz subah walk pe jata hoon,clean
+vo aj office me meeting me tha,clean
+tum log kal party me aaye the,clean
+me aj exam ki tayyari kar raha hoon,clean
+vo kal se new project start karega,clean
+me aj ghar clean kar raha hoon,clean
+tum kal se jogging start karoge,clean
+aj ka match bahut interesting hai,clean
+me roz subah walk pe jata hoon,clean
+ye sab log time pe aaye the,clean
